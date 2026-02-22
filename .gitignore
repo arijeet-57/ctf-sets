@@ -1,0 +1,30 @@
+# Sensitive loot - be careful what you push!
+loot/
+*.flag
+flag.txt
+
+# Binaries / compiled
+*.exe
+*.elf
+*.o
+__pycache__/
+*.pyc
+
+# Wordlists (too large)
+wordlists/*.txt
+!wordlists/custom.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tools
+tools/*/
+!tools/.gitkeep
+
+# Scan results with IPs
+scans/
+
+# Personal notes
+personal.md
+*.private.md

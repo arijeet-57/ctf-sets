@@ -78,13 +78,6 @@ challenges/web/challenge-name/
 
 ---
 
-## 📊 Stats Tracker
-
-| CTF | Date | Rank | Points | Solved |
-|-----|------|------|--------|--------|
-| Example CTF | 2025-01-01 | 42/500 | 3400 | 12 |
-
----
 
  
 
